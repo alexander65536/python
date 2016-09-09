@@ -1,5 +1,7 @@
-#The problem statement: Find X! - Y! where X and Y are values taken from the User. calculate the number of decimal digits in the 
-#result. Find the number of bytes required to store the result.
+'''
+The problem statement: Find X! - Y! where X and Y are values taken from the User. calculate the number of decimal digits in the 
+result. Find the number of bytes required to store the result.
+'''
 
 
 
