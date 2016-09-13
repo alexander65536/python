@@ -30,7 +30,7 @@ else:
 
 remainder = difference # the divident becomes the difference
 quotient = 0
-while( remainder >= 10):
+while( remainder >= 10): #to calculate the number of decimal digits
 	remainder = remainder/10
 	quotient = quotient + 1
 
